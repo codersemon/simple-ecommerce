@@ -1,0 +1,23 @@
+.cart-items-wrap{}
+.cart-items-wrap h2, .cart-items-wrap h4{
+    text-align: center;
+    margin: 5px 0;
+}
+.cart-items-wrap p{
+    margin: 0;
+}
+.cart-items-wrap h3{
+    color: #b12704;
+    margin: 0 0 10px;
+}
+.cart-review-btn {
+    background: #F0C14B;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+.cart-review-btn:hover{
+    background: #c49d3d;
+}
